@@ -7,4 +7,5 @@ We need to perform following:
 - Open Solution in Visual Studio
 - Import NuGet Package from custom feed in Azure Artifacts
 - Install Package
-- Start using helper method
+- Add a using statement for ACloudTechie.Artifact.Calculate
+- Call Calculator.Add() or Calculator.Subtract()
